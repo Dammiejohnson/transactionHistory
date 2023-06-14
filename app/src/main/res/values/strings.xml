@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyTransactApp</string>
+    <string name="transaction_type">Transaction Type</string>
+    <string name="transaction_title">Transaction type</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="delete_button">Delete button</string>
+    <string name="add_transaction_button">Add Transaction Button</string>
+    <string name="enter_transaction_type">Enter Transaction Type</string>
+    <string name="enter_transaction_amount">Enter Transaction Amount</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="update_transaction">Update Transaction</string>
+    <string name="create_your_first_transaction">Create your first transaction</string>
+    <string name="transactions">Transactions</string>
+</resources>
